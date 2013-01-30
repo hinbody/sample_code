@@ -1,8 +1,6 @@
 <?php
-require_once("header.php");
 require_once("shopaccess.php"); //get database credentials
-$db_server = mysql_connect($db_hostname, $db_user, $db_password);
-mysql_select_db($db_database);
+require_once("header.php");
 $query="select * from products";
 $result=mysql_query($query);
 $rows=mysql_num_rows($result);

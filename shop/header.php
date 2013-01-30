@@ -16,6 +16,6 @@
    </ul>
    </div>
     <br />
-<div class = \"content\" >
+<div class = "content" >
 <img src="Images/FrankiesLogo.jpg" />
-<table style=\"max-height:500px\"><tr><th>Name</th> <th>Price</th> <th>Item</></tr>
+<table style="max-height:500px"><tr><th>Name</th> <th>Price</th> <th>Item</></tr>
