@@ -7,3 +7,5 @@ Address of Shop City, State zip</address></p></div>
         alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
   </p>-->
 </div>
+</body>
+</html>
