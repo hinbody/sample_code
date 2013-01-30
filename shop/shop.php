@@ -4,6 +4,8 @@ require_once("header.php");
 $query="select * from products";
 $result=mysql_query($query);
 $rows=mysql_num_rows($result);
+echo "<table style=\"max-height:500px\">
+  <tr><th>Name</th> <th>Price</th> <th>Item</></tr>";
 //loop through db to display products with name, image and price
 for($i=0; $i<$rows; $i++)
 {
